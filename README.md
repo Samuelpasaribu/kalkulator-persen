@@ -13,3 +13,7 @@ Riwayat Pembaruan Tools Kalkulator Persen:
 Riwayat Pembaruan Tools Kalkulator Persen:
 #### <a href="https://www.toptal.com/developers/cssminifier">CSS Minifier</a>
 1. https://cdn.jsdelivr.net/gh/samuelpasaribu/kalkulator-persen/05052023.css
+### Samuelpasaribu.com
+Perkenalkan Alat Terbaik untuk Menghitung Persentase Secara Cepat dan Akurat
+#### <a href="https://www.toptal.com/developers/cssminifier">Read More</a>
+<a href="https://www.samuelpasaribu.com/p/kalkulator-persen.html">Demo</a>
