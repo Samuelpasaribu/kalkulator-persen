@@ -5,4 +5,7 @@ Algoritma
 https://cdn.jsdelivr.net/gh/samuelpasaribu/kalkulator-persen/bignumber.min.js
 
 Riwayat Pembaruan Tools Kalkulator Persen:
+### <a href="https://www.toptal.com/developers/javascript-minifier">JavaScript Minifier</a> + <a href="https://beautifytools.com/javascript-obfuscator.php">JavaScript Obfuscator</a>
 1. https://cdn.jsdelivr.net/gh/samuelpasaribu/kalkulator-persen/05052023.js
+### <a href="https://www.toptal.com/developers/javascript-minifier">JavaScript Minifier</a> + <a href="https://beautifytools.com/javascript-obfuscator.php">JavaScript Obfuscator</a> + <a href="https://obfuscator.io">JavaScript Obfuscator Tool</a>
+2. https://cdn.jsdelivr.net/gh/samuelpasaribu/kalkulator-persen/552023.js
