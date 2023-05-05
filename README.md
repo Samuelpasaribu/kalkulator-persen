@@ -1,7 +1,7 @@
 # kalkulator-persen
 Kalkulator Persen Online (%) - samuelpasaribu.com
 
-Build Link:
+Algoritma
 https://cdn.jsdelivr.net/gh/samuelpasaribu/kalkulator-persen/bignumber.min.js
 
 Riwayat Pembaruan Tools Kalkulator Persen:
